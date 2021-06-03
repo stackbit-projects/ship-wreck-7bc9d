@@ -15,7 +15,7 @@ excerpt: >-
   approximately 600m from the slipway in Abercastle Bay in around 8 - 16m of
   water.  There were various Surveying exercises carried out both above and
   below the surface. One of the techniques used was Photogrammetry and Henry
-  xxxxx  photographed four particular areas of the wreck. Press Keep Reading to
+  xxxxx  photographed four particular areas of the wreck.( Press Keep Reading to
   go to the Photogrammetry)
 seo:
   type: stackbit_page_meta
