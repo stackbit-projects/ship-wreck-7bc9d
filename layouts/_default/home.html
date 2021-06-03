@@ -7,7 +7,7 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
-        {{ $posts := (.Site.GetPage "section" "in" (slice "/posts")).Pages }}
+        {{ $posts := (.Site.GetPage "section" "/wrecks" ).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
           {{ $posts_sorted := $posts.ByDate.Reverse }}
