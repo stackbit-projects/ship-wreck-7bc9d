@@ -3,7 +3,6 @@ subtitle: Photogrammetry
 date: '2020-01-11'
 thumb_img_path: /images/Leysian.jpg
 content_img_path: /images/Leysian.jpg
-excerpt: t
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
