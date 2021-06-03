@@ -4,19 +4,7 @@ date: '2020-01-11'
 thumb_img_path: /images/Leysian.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: /images/Leysian.jpg
-excerpt: >-
-  In June 2019. Multiple dive clubs joined a field school run by MADU to dive
-  the SS Leysian. The field schools formed part of Commemorating the Forgotten
-  U-Boat War around the Welsh Coast 1914-18 that was a project co-ordinated by
-  the Royal Commission on the Ancient and Historical Monuments of Wales
-  (RCAHMW), and funded by the Heritage Lottery Fund (HLF). The 2019 field school
-  took place over a 10-day period from 7th to 17th June, at Abercastle in
-  Pembrokeshire, and included diving on the wreck of the SS Leysian, which lies
-  approximately 600m from the slipway in Abercastle Bay in around 8 - 16m of
-  water.  There were various Surveying exercises carried out both above and
-  below the surface. One of the techniques used was Photogrammetry and Henry
-  xxxxx  photographed four particular areas of the wreck.(Press Keep Reading to
-  go to the Photogrammetry)
+excerpt: "In June 2019. Multiple dive clubs joined a field school run by MADU to dive the SS Leysian. The field schools formed part of Commemorating the Forgotten U-Boat War around the Welsh Coast 1914-18 that was a project co-ordinated by the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW), and funded by the Heritage Lottery Fund (HLF). The 2019 field school took place over a 10-day period from 7th to 17th June, at Abercastle in Pembrokeshire, and included diving on the wreck of the SS Leysian, which lies approximately 600m from the slipway in Abercastle Bay in around 8 - 16m of water.  There were various Surveying exercises carried out both above and below the surface. One of the techniques used was Photogrammetry and Henry xxxxx  photographed four particular areas of the wreck.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_(Press Keep Reading to go to the Photogrammetry)"
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
