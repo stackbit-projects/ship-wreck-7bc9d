@@ -42,6 +42,15 @@ fields:
   label: Background Image (wreck Post)
   description: The background image of the left side in the single post. If no image
     added, the default image specified in Header Configuration is displayed.
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Main Content
 - name: excerpt
   type: text
   config:
