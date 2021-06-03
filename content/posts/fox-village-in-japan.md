@@ -16,7 +16,7 @@ excerpt: >-
   water.  There were various Surveying exercises carried out both above and
   below the surface. One of the techniques used was Photogrammetry and Henry
   xxxxx  photographed four particular areas of the wreck. Press Keep Reading to
-  go to the 
+  go to the Photogrammetry
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
