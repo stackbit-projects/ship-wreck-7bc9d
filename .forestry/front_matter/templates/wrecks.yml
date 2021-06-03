@@ -48,6 +48,14 @@ fields:
     required: false
   label: Excerpt
   description: The excerpt of the post displayed in the main feed
+- name: photogrammetry
+  type: blocks
+  label: Photogrammetry
+  template_types:
+  - photogram
+  config:
+    min: 
+    max: 
 - name: hide_sidebar
   type: boolean
   label: Hide sidebar
