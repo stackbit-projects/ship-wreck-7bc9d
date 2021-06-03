@@ -7,7 +7,7 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
-        {{ $posts := {{ range first 5 (where .Data.Pages "Section" "in" (slice "tutorial" "news")) }}
+        {{ $posts :=  range first 5 (where .Data.Pages "Section" "in" (slice "tutorial" "news")) 
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
           {{ $posts_sorted := $posts.ByDate.Reverse }}
