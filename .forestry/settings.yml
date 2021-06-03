@@ -25,6 +25,12 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: directory
+  path: content
+  label: Wrecks
+  create: all
+  match: "**/*"
+  new_doc_ext: md
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
