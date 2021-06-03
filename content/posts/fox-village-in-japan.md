@@ -52,7 +52,8 @@ excerpt: >-
   water.  There were various Surveying exercises carried out both above and
   below the surface. One of the techniques used below the surface was
   Photogrammetry and one of the divers, Henry xxxxx  photographed four
-  particular areas of the wreck and by using Agisoft these have been
+  particular areas of the wreck and by using 3D software these have been
+  converted into models that can be viewed and manipulated on this site.
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
