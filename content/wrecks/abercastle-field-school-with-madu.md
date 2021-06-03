@@ -1,4 +1,5 @@
 +++
+content = ""
 content_img_path = ""
 date = ""
 excerpt = "In June 2019. Multiple dive clubs joined a field school run by MADU to dive the SS Leysian. The field schools formed part of Commemorating the Forgotten U-Boat War around the Welsh Coast 1914-18 that was a project co-ordinated by the Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW), and funded by the Heritage Lottery Fund (HLF). The 2019 field school took place over a 10-day period from 7th to 17th June, at Abercastle in Pembrokeshire, and included diving on the wreck of the SS Leysian, which lies approximately 600m from the slipway in Abercastle Bay in around 8 - 16m of water. There were various Surveying exercises carried out both above and below the surface. One of the techniques used below the surface was Photogrammetry and one of the divers, Henry xxxxx photographed four particular areas of the wreck and by using 3D software these have been converted into models that can be viewed and manipulated on this site."
@@ -18,4 +19,3 @@ title = ""
 type = "stackbit_page_meta"
 
 +++
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
