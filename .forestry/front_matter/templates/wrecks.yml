@@ -65,6 +65,14 @@ fields:
   config:
     min: 
     max: 
+- name: survey_items
+  type: blocks
+  label: Survey Items
+  template_types:
+  - survey-items
+  config:
+    min: 
+    max: 
 - name: hide_sidebar
   type: boolean
   label: Hide sidebar
