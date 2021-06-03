@@ -50,8 +50,9 @@ excerpt: >-
   Pembrokeshire, and included diving on the wreck of the SS Leysian, which lies
   approximately 600m from the slipway in Abercastle Bay in around 8 - 16m of
   water.  There were various Surveying exercises carried out both above and
-  below the surface. One of the techniques used was Photogrammetry and Henry
-  xxxxx  photographed four particular areas of the wreck.
+  below the surface. One of the techniques used below the surface was
+  Photogrammetry and one of the divers, Henry xxxxx  photographed four
+  particular areas of the wreck.
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
