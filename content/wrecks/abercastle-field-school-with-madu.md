@@ -1,5 +1,8 @@
 ---
 content: >
+  ![](https://cdn.forestry.io/res2/kn3R3UEt1TucS8tkAPq9uiqbY8JutdQLz-KV4pl3iK8/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUmprNGQzY3dQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNjFm/MzU4NmI1ODJhYTlj/NzdkZDg1ZjZjMTMw/NWYyY2Q1NGRlYzJh/Mi9MZXlzaWFuLmpw/Zw)
+
+
 
 
   In June 2019. Multiple dive clubs joined a field school run by MADU to dive
