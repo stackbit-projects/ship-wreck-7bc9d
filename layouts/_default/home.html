@@ -5,8 +5,8 @@
   <div id="content" class="site-content">
     <main id="main" class="site-main inner">
       <div class="main-text">
-      sdf
-        {{.Site.Data.home_page_texts}}
+      
+        {{.Params.home_page_texts}}
       </div>
       <div class="post-feed">
         {{ $posts := (.Site.GetPage "section" "/wrecks" ).Pages }}
