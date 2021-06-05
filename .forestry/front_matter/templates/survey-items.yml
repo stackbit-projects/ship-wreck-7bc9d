@@ -1,5 +1,5 @@
 ---
-label: Survey Items
+label: Survey Page
 hide_body: false
 fields:
 - name: survey_page_title
