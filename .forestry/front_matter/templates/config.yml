@@ -8,6 +8,15 @@ fields:
   description: Site title
   config:
     required: true
+- name: home_page_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Home Page Text
 - type: text
   name: domain
   label: Domain
