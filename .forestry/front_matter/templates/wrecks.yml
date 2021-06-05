@@ -48,6 +48,18 @@ fields:
     required: false
   label: Excerpt
   description: The excerpt of the post displayed in the main feed
+- name: survey_page
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: pages
+      file: 
+      path: 
+  label: Survey Page
 - name: hide_sidebar
   type: boolean
   label: Hide sidebar
