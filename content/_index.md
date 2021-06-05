@@ -32,4 +32,4 @@ seo:
     relativeUrl: true
 layout: home
 
-
+---
