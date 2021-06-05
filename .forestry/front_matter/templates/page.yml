@@ -34,5 +34,4 @@ fields:
     required: true
 pages:
 - content/about.md
-- content/style-guide.md
 - content/success.md
