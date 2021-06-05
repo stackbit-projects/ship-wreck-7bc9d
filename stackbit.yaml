@@ -504,4 +504,4 @@ models:
               name: keyName
               default: name
             - type: boolean
-              name: relativeUrl 
+              name: relativeUrl
