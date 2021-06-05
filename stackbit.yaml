@@ -103,7 +103,7 @@ sourceMapping:
       fieldPath: 'params.footer.links[0].style'
 models:
   config:
-    type: data
+    type: config
     label: Site Configuration
     fields:
       - type: string
@@ -111,39 +111,48 @@ models:
         label: Title
         description: Site title
         required: true
-        description: Home Page Text
       - type: string
-        name: domain
-        label: Domain
-        description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
-      - type: image
-        name: favicon
-        label: Favicon
-        description: A square icon that represents your website
-      - type: enum
-        name: palette
-        label: Color Palette
-        description: The color palette of the theme
-        options:
-          - yellow
-          - blue
-          - green
-          - red
-        default: yellow
+        name: baseURL
+        label: Base URL
+        description: Hostname (and path) to the root
+        hidden: true
+      - type: object
+        name: params
+        label: Params
+        description: Site parameters
         required: true
-      - type: model
-        name: header
-        label: Header Configuration
-        models:
-          - header
-      - type: model
-        name: footer
-        label: Footer Configuration
-        models:
-          - footer
-    file: config.json
+        fields:
+          - type: string
+            name: domain
+            label: Domain
+            description: >-
+              The domain of your site, including the protocol, e.g.
+              https://mysite.com/
+          - type: image
+            name: favicon
+            label: Favicon
+            description: A square icon that represents your website
+          - type: enum
+            name: palette
+            label: Color Palette
+            description: The color palette of the theme
+            options:
+              - yellow
+              - blue
+              - green
+              - red
+            default: yellow
+            required: true
+          - type: model
+            name: header
+            label: Header Configuration
+            models:
+              - header
+          - type: model
+            name: footer
+            label: Footer Configuration
+            models:
+              - footer
   header:
     type: object
     label: Header Configuration
