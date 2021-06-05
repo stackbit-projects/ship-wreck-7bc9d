@@ -33,4 +33,3 @@ seo:
 layout: home
 
 ---
-This is some home page text
