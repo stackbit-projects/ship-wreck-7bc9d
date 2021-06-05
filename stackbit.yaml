@@ -112,8 +112,8 @@ models:
         description: Site title
         required: true
       - type: markdown
-        name: title
-        label: Title
+        name: home_page_text
+        label: home_page_text
         description: Site title
         required: true
       - type: string
