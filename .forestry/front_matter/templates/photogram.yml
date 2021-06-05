@@ -10,7 +10,9 @@ fields:
 - name: photogrammetry_page_items
   type: blocks
   label: Photogrammetry Page Items
-  template_types: []
+  template_types:
+  - photogrammetry-page-items
+  - gallery
   config:
     min: 
     max: 
