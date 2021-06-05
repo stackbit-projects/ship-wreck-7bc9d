@@ -112,6 +112,11 @@ models:
         description: Site title
         required: true
       - type: string
+        name: title
+        label: Title
+        description: Site title
+        required: true
+      - type: string
         name: domain
         label: Domain
         description: >-
