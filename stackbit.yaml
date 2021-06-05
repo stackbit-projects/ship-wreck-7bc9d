@@ -115,7 +115,6 @@ models:
         name: home_page_text
         label: home_page_text
         description: Home Page Text
-        required: true
       - type: string
         name: domain
         label: Domain
