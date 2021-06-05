@@ -60,6 +60,18 @@ fields:
       file: 
       path: 
   label: Survey Page
+- name: photogrammetry_page
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: pages
+      file: 
+      path: 
+  label: Photogrammetry Page
 - name: hide_sidebar
   type: boolean
   label: Hide sidebar
