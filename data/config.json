@@ -113,5 +113,6 @@
         "links": []
     },
     "domain": "https://ship-wreck-7bc9d.netlify.app",
-    "favicon": "/images/panoramic-aluminum.png"
-    }
+    "favicon": "/images/panoramic-aluminum.png",
+    "home_page_text": "## Test\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper, magna et ultrices mattis, magna purus pharetra ex, nec tincidunt velit mi feugiat justo. Mauris scelerisque odio mi, vel rhoncus sem pulvinar mattis. Fusce vel tempus enim. Nullam posuere, sapien quis maximus faucibus, mi felis imperdiet nisi, non ornare nunc leo eget urna. Nulla nec commodo lorem, et facilisis nunc. Integer accumsan, ligula eu tempor tincidunt, mi enim gravida nisl, et tincidunt nulla nunc a quam. Vivamus consequat condimentum odio. Sed velit purus, convallis sed neque at, ullamcorper porttitor turpis. Quisque ultricies tincidunt tortor ac posuere. Integer elit leo, cursus in pulvinar sed, egestas vitae magna. Maecenas sed hendrerit metus. Pellentesque venenatis, massa ac rutrum faucibus, lacus erat consequat turpis, eget ornare tellus felis nec tellus.\n"
+}
