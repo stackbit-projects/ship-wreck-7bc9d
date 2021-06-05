@@ -114,7 +114,7 @@ models:
       - type: markdown
         name: home_page_text
         label: home_page_text
-        description: Site title
+        description: Home Page Text
         required: true
       - type: string
         name: domain
