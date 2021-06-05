@@ -143,7 +143,6 @@ models:
         label: Footer Configuration
         models:
           - footer
-    file: config.json
   header:
     type: object
     label: Header Configuration
