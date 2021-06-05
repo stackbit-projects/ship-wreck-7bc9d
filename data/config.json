@@ -1,120 +1,118 @@
 {
-  "title": "Stackbit Fjord Theme",
-  "palette": "blue",
-  "header": {
-    "type": "header",
-    "template": "header",
-    "title": "Fjord",
-    "tagline": "Minimal and clean blog theme",
-    "logo_img": "images/logo.svg",
-    "logo_img_alt": "Fjord Logo",
-    "background_img": "/images/front.jpg",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Home",
-        "url": "/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "About",
-        "url": "/about",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Style Guide",
-        "url": "/style-guide",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      }
-    ],
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "icon",
-        "icon_class": "twitter",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "style": "icon",
-        "icon_class": "instagram",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "icon",
-        "icon_class": "github",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "linkedin",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "dev",
-        "new_window": true,
-        "no_follow": false
-      }
-    ]
-  },
-  "footer": {
-    "type": "footer",
-    "template": "footer",
-    "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
-    "links": [
-
-    ]
-  },
-  "domain": "https://ship-wreck-7bc9d.netlify.app",
-  "favicon": "/images/panoramic-aluminum.png",
-  "home_page_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper, magna et ultrices mattis, magna purus pharetra ex, nec tincidunt velit mi feugiat justo. Mauris scelerisque odio mi, vel rhoncus sem pulvinar mattis. Fusce vel tempus enim. Nullam posuere, sapien quis maximus faucibus, mi felis imperdiet nisi, non ornare nunc leo eget urna. Nulla nec commodo lorem, et facilisis nunc. Integer accumsan, ligula eu tempor tincidunt, mi enim gravida nisl, et tincidunt nulla nunc a quam. Vivamus consequat condimentum odio. Sed velit purus, convallis sed neque at, ullamcorper porttitor turpis. Quisque ultricies tincidunt tortor ac posuere. Integer elit leo, cursus in pulvinar sed, egestas vitae magna. Maecenas sed hendrerit metus. Pellentesque venenatis, massa ac rutrum faucibus, lacus erat consequat turpis, eget ornare tellus felis nec tellus."
+    "title": "Stackbit Fjord Theme",
+    "palette": "blue",
+    "header": {
+        "type": "header",
+        "template": "header",
+        "title": "Fjord",
+        "tagline": "Minimal and clean blog theme",
+        "logo_img": "images/logo.svg",
+        "logo_img_alt": "Fjord Logo",
+        "background_img": "/images/front.jpg",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "About",
+                "url": "/about",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "DEV",
+                "url": "https://dev.to/",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true,
+                "no_follow": false
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "template": "footer",
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "links": []
+    },
+    "domain": "https://ship-wreck-7bc9d.netlify.app",
+    "favicon": "/images/panoramic-aluminum.png",
+    "home_page_text": "# Welcome to the site etc\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper, magna et ultrices mattis, magna purus pharetra ex, nec tincidunt velit mi feugiat justo. Mauris scelerisque odio mi, vel rhoncus sem pulvinar mattis. Fusce vel tempus enim. Nullam posuere, sapien quis maximus faucibus, mi felis imperdiet nisi, non ornare nunc leo eget urna. Nulla nec commodo lorem, et facilisis nunc. Integer accumsan, ligula eu tempor tincidunt, mi enim gravida nisl, et tincidunt nulla nunc a quam. Vivamus consequat condimentum odio. Sed velit purus, convallis sed neque at, ullamcorper porttitor turpis. Quisque ultricies tincidunt tortor ac posuere. Integer elit leo, cursus in pulvinar sed, egestas vitae magna. Maecenas sed hendrerit metus. Pellentesque venenatis, massa ac rutrum faucibus, lacus erat consequat turpis, eget ornare tellus felis nec tellus.\n"
 }
