@@ -7,3 +7,10 @@ fields:
   config:
     required: false
   label: Photogrammetry Title
+- name: photogrammetry_page_items
+  type: blocks
+  label: Photogrammetry Page Items
+  template_types: []
+  config:
+    min: 
+    max: 
